@@ -1,0 +1,2 @@
+yarn add react-native-vector-icons
+yarn add react-native-google-places-autocomplete
